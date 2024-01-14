@@ -1,2 +1,6 @@
 # Uber-Data-Analysis
-The NYC Taxi and Limousine Commission (TLC) datasets about Uber's ridership are popular in data analytics. 
+The NYC Taxi and Limousine Commission (TLC) datasets about Uber's ridership are popular in data analytics. You could use this data in your computer science project to analyze Uber bookings in New York city for a particular location. 
+Using Python and its libraries like Pandas, NumPy, Matplotlib, and Seaborn, you can find which hour of the day or day of the month has the highest pickups. Uber provides a public API that allows developers to access certain types of data. To perform data analysis on Uber data, you would typically need to retrieve data using their API or use publicly available datasets related to Uber. Unfortunately, I don't have access to the latest API documentation or real-time data, so I can provide you with a general outline of how you might approach this task.
+This is a basic example, and Uber's API documentation might provide more specific details about available endpoints and data formats. Ensure that you comply with Uber's terms of service and policies when using their API.
+
+If you're working with real-time data, consider setting up a streaming solution or periodically fetching data from Uber's API and storing it for analysis. Always respect privacy and data protection regulations when handling sensitive information.
